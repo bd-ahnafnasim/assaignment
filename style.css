@@ -32,6 +32,17 @@ section{
     text-align:center;
     background-color: rgba(0, 0, 0, 0.4);
     }
+   #linkk a{
+    text-decoration: none;
+    background-color: tomato;
+    color:white;
+    font-size: small;
+    text-decoration: none;
+    padding:10px 15px;
+    margin-top:20px;
+    border-radius: 5px;
+
+
  .buttonn{
             height:200px;
             width:400px;
