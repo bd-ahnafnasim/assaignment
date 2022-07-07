@@ -32,7 +32,41 @@ section{
     text-align:center;
     background-color: rgba(0, 0, 0, 0.4);
     }
+ .buttonn{
+            height:200px;
+            width:400px;
+            display:flex;
+            align-items: center;
+            justify-content: center;
+            background-color: #FFF4D6;
+            position:relative;
+            margin-top: 200px;
+            margin-left: 100px;
+        }
 
+        label{
+            position:absolute;
+        }
+        #email{
+            border:none;
+            width: 300px;
+            height: 30px;
+            padding: 0 15px;
+            border:none;
+            background: rgb(216, 213, 213);
+        }
+        #subscribe{
+            position:absolute;
+            top:0;
+            bottom:0;
+            right:0;
+            background: tomato;
+            border:none;
+            padding:0 15px;
+            letter-spacing: 1.2px;
+            border:none;
+            height: 30px;
+        }
 #link-button{
     background-color: tomato;
     color:white;
