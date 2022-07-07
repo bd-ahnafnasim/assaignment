@@ -41,7 +41,9 @@ section{
             background-color: #FFF4D6;
             position:relative;
             margin-top: 20px;
-            margin-left: 300px;
+            margin-left: 50%;
+            margin-right:50%;
+            
         }
 
         label{
@@ -54,7 +56,7 @@ section{
             padding: 0 15px;
             border:none;
             background: rgb(216, 213, 213);
-            border-radius:5px;
+            border-radius: 5px;
         }
         #subscribe{
             position:absolute;
