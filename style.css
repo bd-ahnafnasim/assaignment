@@ -32,15 +32,16 @@ section{
     text-align:center;
     background-color: rgba(0, 0, 0, 0.4);
     }
-   #linkk a{
-    text-decoration: none;
+   
+#link-button{
     background-color: tomato;
     color:white;
     font-size: small;
     text-decoration: none;
-    padding:10px 15px;
+    padding:5px 10px;
     margin-top:20px;
     border-radius: 5px;
+   }
 
 
  .buttonn{
